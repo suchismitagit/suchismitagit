@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suchismitagit
 - 👀 I’m interested in coding and creating fun applications
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning spring and redis
 - 💞️ I’m looking to collaborate on few open source projects
 - 📫 How to reach me : https://www.linkedin.com/in/suchismita-chaudhuri-9a1bb910a/
 
